@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Pétalos de la flor -->
+  <path d="M50,0 C60,15 70,20 85,20 C70,30 70,40 70,50 C60,40 40,40 30,50 C30,40 30,30 15,20 C30,20 40,15 50,0 Z" fill="#9B4F96" />
+  <path d="M50,100 C60,85 70,80 85,80 C70,70 70,60 70,50 C60,60 40,60 30,50 C30,60 30,70 15,80 C30,80 40,85 50,100 Z" fill="#9B4F96" />
+  <path d="M0,50 C15,40 20,30 20,15 C30,30 40,30 50,30 C40,40 40,60 50,70 C40,70 30,70 20,85 C20,70 15,60 0,50 Z" fill="#9B4F96" />
+  <path d="M100,50 C85,40 80,30 80,15 C70,30 60,30 50,30 C60,40 60,60 50,70 C60,70 70,70 80,85 C80,70 85,60 100,50 Z" fill="#9B4F96" />
+  
+  <!-- Centro de la flor -->
+  <circle cx="50" cy="50" r="15" fill="#FFFFFF" />
+  <circle cx="50" cy="50" r="10" fill="#F5A623" />
+  
+  <!-- Detalles del centro -->
+  <circle cx="45" cy="45" r="2" fill="#FFFFFF" opacity="0.7" />
+  <circle cx="55" cy="55" r="1" fill="#FFFFFF" opacity="0.5" />
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120">
+  <!-- Hoja central grande -->
+  <path d="M100,10 C120,10 140,30 140,60 C120,80 80,80 60,60 C60,30 80,10 100,10 Z" fill="#4D7A3C" />
+  
+  <!-- Hoja izquierda -->
+  <path d="M60,40 C70,30 80,30 90,40 C80,60 60,70 40,60 C40,40 50,30 60,40 Z" fill="#5D8A4C" />
+  
+  <!-- Hoja derecha -->
+  <path d="M140,40 C150,30 160,30 170,40 C170,60 150,70 130,60 C120,50 130,30 140,40 Z" fill="#5D8A4C" />
+  
+  <!-- Hoja inferior izquierda -->
+  <path d="M70,80 C80,70 90,70 100,80 C90,100 70,110 50,100 C50,80 60,70 70,80 Z" fill="#3D6A2C" />
+  
+  <!-- Hoja inferior derecha -->
+  <path d="M130,80 C140,70 150,70 160,80 C160,100 140,110 120,100 C110,90 120,70 130,80 Z" fill="#3D6A2C" />
+  
+  <!-- Detalles de las hojas -->
+  <path d="M100,20 L100,70" stroke="#3D6A2C" stroke-width="2" />
+  <path d="M70,45 L80,60" stroke="#3D6A2C" stroke-width="1" />
+  <path d="M130,45 L120,60" stroke="#3D6A2C" stroke-width="1" />
+  <path d="M80,85 L90,95" stroke="#3D6A2C" stroke-width="1" />
+  <path d="M120,85 L110,95" stroke="#3D6A2C" stroke-width="1" />
+</svg>
